@@ -1,18 +1,16 @@
 .post_item_404 .go_home,
-.comments_wrap .form-submit input[type="submit"],
+.comments_wrap .form-submit input[type=submit],
 .wpcf7 .wpcf7-submit,
 .adp-popup-type-notification-box .adp-popup-button,
 .adp-popup-type-notification-bar .adp-popup-button {
-    -webkit-box-shadow: none;
-    -ms-box-shadow: none;
-    box-shadow: none;
+  -ms-box-shadow: none;
+  box-shadow: none;
 }
 
 .sc_services_modern.sc_services_modern .sc_services_item:hover .sc_button_arrow,
 .sc_services_modern.sc_services_modern .sc_services_item .sc_button_arrow:hover {
-    -webkit-box-shadow: none;
-    -ms-box-shadow: none;
-    box-shadow: none;
+  -ms-box-shadow: none;
+  box-shadow: none;
 }
 
 .sc_item_pagination_load_more .nav-links,
@@ -24,37 +22,33 @@
 .woocommerce-links-more .nav-links,
 .woocommerce-links-more .nav-load-more,
 .woocommerce-links-more .woocommerce-load-more {
-    -webkit-box-shadow: none;
-    -ms-box-shadow: none;
-    box-shadow: none;
+  -ms-box-shadow: none;
+  box-shadow: none;
 }
 
 #style-4.mc4wp-form .mc4wp-form-fields button,
-#style-4.mc4wp-form .mc4wp-form-fields input[type="submit"] {
-    -webkit-box-shadow: none !important;
-    -ms-box-shadow: none !important;
-    box-shadow: none !important;
+#style-4.mc4wp-form .mc4wp-form-fields input[type=submit] {
+  -ms-box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 .sc_price_item .sc_price_item_link {
-    -webkit-box-shadow: none !important;
-    -ms-box-shadow: none !important;
-    box-shadow: none !important;
+  -ms-box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 button[disabled],
-input[type="submit"][disabled],
-input[type="button"][disabled],
+input[type=submit][disabled],
+input[type=button][disabled],
 a.sc_button[disabled],
 a.theme_button[disabled],
 button[disabled]:hover,
-input[type="submit"][disabled]:hover,
-input[type="button"][disabled]:hover,
+input[type=submit][disabled]:hover,
+input[type=button][disabled]:hover,
 a.sc_button[disabled]:hover,
 a.theme_button[disabled]:hover {
-    -webkit-box-shadow: none;
-    -ms-box-shadow: none;
-    box-shadow: none;
+  -ms-box-shadow: none;
+  box-shadow: none;
 }
 
 .woocommerce #respond input#submit.disabled,
@@ -81,9 +75,8 @@ a.theme_button[disabled]:hover {
 .woocommerce input.button.disabled:hover,
 .woocommerce input.button:disabled:hover,
 .woocommerce input.button[disabled]:disabled:hover {
-    -webkit-box-shadow: none !important;
-    -ms-box-shadow: none !important;
-    box-shadow: none !important;
+  -ms-box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 .woocommerce .woocommerce-cart-form table.shop_table .woo-actions-inner .button.continue_shopping,
@@ -99,23 +92,20 @@ a.theme_button[disabled]:hover {
 .woocommerce a.button,
 .woocommerce button.button,
 .woocommerce input.button,
-.woocommerce input[type="button"],
-.woocommerce-page input[type="button"],
-.woocommerce input[type="submit"],
-.woocommerce-page input[type="submit"],
+.woocommerce input[type=button],
+.woocommerce-page input[type=button],
+.woocommerce input[type=submit],
+.woocommerce-page input[type=submit],
 .woocommerce ul.products li.product .button,
 .woocommerce div.product form.cart .button,
-.woocommerce #review_form #respond p.form-submit input[type="submit"],
-.woocommerce-page #review_form #respond p.form-submit input[type="submit"],
+.woocommerce #review_form #respond p.form-submit input[type=submit],
+.woocommerce-page #review_form #respond p.form-submit input[type=submit],
 .woocommerce table.my_account_orders .order-actions .button,
 .woocommerce table.cart td.actions .button,
 #add_payment_method .wc-proceed-to-checkout a.checkout-button,
 .woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
 .woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
 .yith-woocompare-widget a.clear-all {
-    -webkit-box-shadow: none;
-    -ms-box-shadow: none;
-    box-shadow: none;
-}
-
-/*# sourceMappingURL=without-shadow-upgrade-style.css.map */
+  -ms-box-shadow: none;
+  box-shadow: none;
+}/*# sourceMappingURL=without-shadow-upgrade-style.css.map */
